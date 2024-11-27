@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;color: antiquewhite;
+
+}
+h2,h3{
+    align-items: center;
+    text-align: center;
+}
+a:hover{
+    text-decoration: none;
+        color: antiquewhite;
+        border-bottom: 2px solid salmon;
+}
